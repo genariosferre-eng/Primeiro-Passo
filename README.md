@@ -1,2 +1,3 @@
 # Primeiro Passo
-primeiro repositorio criado do curso git e github
+primeiro repositório criado do curso git e github
+com um ótimo professor
